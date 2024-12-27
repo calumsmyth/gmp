@@ -9,6 +9,7 @@ body {
     margin: 0 auto;
     color: red;
     font-weight: bold;
+    justify-content: center;
 
 }
 
@@ -17,10 +18,13 @@ body {
     max-width: 1200px;
     background-color: brown;
     margin: 0 auto;
+    justify-content: center;
+    align-items: flex-start;
 }
 
 .recipeList {
     display: flex;
     max-width: 1200px;
     justify-content: space-between;
+    align-items: flex-end;
 }
