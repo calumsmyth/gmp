@@ -5,6 +5,7 @@ body {
 .title {
     display:flex;
     max-width:fit-content;
+    background-color: purple;
     align-items: center;
     color: red;
     font-weight: bold;
