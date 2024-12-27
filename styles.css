@@ -1,0 +1,12 @@
+body {
+    width:auto;
+    height:auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+}
+.title {
+    align-items: center;
+    color: black;
+    font-weight: bold;
+
+}
