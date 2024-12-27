@@ -1,11 +1,10 @@
 body {
-    max-width:auto;
-    max-height:auto;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: aqua;
 }
 .title {
     display:flex;
+    max-width:fit-content;
     align-items: center;
     color: red;
     font-weight: bold;
