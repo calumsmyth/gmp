@@ -6,11 +6,21 @@ body {
     display:flex;
     max-width: 1200px;
     background-color:purple;
-    align-items: center;
+    margin: 0 auto;
     color: red;
     font-weight: bold;
 
 }
 
+.choices {
+    display: flex;
+    max-width: 1200px;
+    background-color: brown;
+    margin: 0 auto;
+}
+
 .recipeList {
+    display: flex;
+    max-width: 1200px;
+    justify-content: space-between;
 }
