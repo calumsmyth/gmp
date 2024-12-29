@@ -20,7 +20,7 @@ body {
     background-color: brown;
     margin: 0 auto;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .recipeList {
