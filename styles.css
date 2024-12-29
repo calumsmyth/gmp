@@ -23,8 +23,8 @@ body {
     align-items: center;
 }
 
-.recipeList {
+/*.recipeList {
     display: flex;
     max-width: 0 auto;
     justify-content: space-between;
-}
+}*/
