@@ -4,7 +4,7 @@ body {
 }
 .title {
     display:flex;
-    max-width: 1200px;
+    max-width: 0 auto;
     background-color:purple;
     margin: 0 auto;
     color: red;
@@ -15,7 +15,8 @@ body {
 
 .choices {
     display: flex;
-    max-width: 1200px;
+    flex-direction: column;
+    max-width: 0 auto;
     background-color: brown;
     margin: 0 auto;
     justify-content: center;
@@ -24,7 +25,6 @@ body {
 
 .recipeList {
     display: flex;
-    max-width: 1200px;
+    max-width: 0 auto;
     justify-content: space-between;
-    align-items: flex-end;
 }
