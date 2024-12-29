@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    max-width: 0, auto;
+    justify-content: center;
+    color: yellow;
+    background-color: purple;
+    font-weight: bold;
+
+}
