@@ -9,9 +9,9 @@
 }
 
 .ingredients {
-    display: flex;
+    /*display: flex;
     max-width: 0, auto;
-    justify-content: flex-start;
+    justify-content: flex-start;*/
     color:orangered;
     background-color: green;
     font-size: 20px;
