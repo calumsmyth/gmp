@@ -18,15 +18,12 @@
     justify-content: flex-start;
     color:orangered;
     background-color: green;
+    font-size: 20px;
 }
 
 .ingredientTitle {
     font-weight: bold;
     font-size: 32px;
-}
-
-.ingredientList {
-    font-size: 26px;
 }
 
 .instructions {
@@ -35,6 +32,7 @@
     justify-content: flex-start;
     color: orangered;
     background-color: blue;
+    font-size: 20px;
 }
 
 .instructionTitle {
