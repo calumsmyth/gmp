@@ -4,7 +4,7 @@
 
 .header {
     display: flex;
-    max-width: 0, auto;
+    max-width: auto;
     justify-content: center;
     color: yellow;
     background-color: purple;
@@ -12,9 +12,9 @@
 
 }
 
-.ingrendientTitle .ingredientList {
+.ingredients {
     display: flex;
-    max-width: 0, auto;
+    max-width: auto;
     justify-content: flex-start;
     color:orangered;
     background-color: green;
@@ -28,7 +28,7 @@
 
 .instruct {
     display: flex;
-    max-width: 0, auto;
+    max-width: auto;
     justify-content: flex-start;
     color: orangered;
     background-color: blue;
