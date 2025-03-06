@@ -5,27 +5,33 @@ body {
  
  .hero {
     display:flex;
-    background-color: #e78f78;
+    background-color: rgb(231, 143, 120, 0.98);
     font-weight: bold;
     justify-content: center;
     border-radius: 5px;
     font-weight: 700;
     color: #ffe7ab;
-    margin: 50px;
+    border: 2px, solid, #E9c46a;
+    box-shadow: 0 14px 6px rgba(0, 0, 0, 0.2);
+    margin-top:30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom:0px;
 
 }
 
-.choices {
+
+#title{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; 
-}
-
-.title {
     padding:20px;
     font-weight: 700;
-    color: #ffe7ab;
+    color: rgb(231, 143, 120);
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 10px;
+    width: auto;
+    /* background-color: rgb(86, 216, 26, 0.247) */
 }
 
 .grid{
@@ -35,6 +41,8 @@ body {
     gap: 10px;
     border-radius: 10px;
     padding: 15px;
+    padding-top: 0px;
+    /* background-color: yellow; */
 
 }
 
@@ -69,7 +77,10 @@ body {
     border: 2px, solid #E9c46a;
     box-shadow: 0 14px 6px rgba(0, 0, 0, 0.2);
     padding: 20px;
-    margin: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 24px;
+    margin-bottom: 50px
 
 }
 
@@ -87,6 +98,8 @@ body {
     box-shadow: 0 14px 6px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     padding: 20px;
+    margin-top: 30px;
+    max-width: 50%;
 
 }
 
@@ -117,7 +130,7 @@ body {
 
 
 
-.navbar {
+/* .navbar {
     display: flex;
     justify-content: space-between;
     background: #333;
@@ -143,4 +156,4 @@ button {
 }
 button:hover {
     background: #D13B22;
-}
+} */
